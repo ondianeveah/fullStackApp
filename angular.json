@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "fullStackTutorial"
+    }
+  },
+  "defaultProject": "fullStackTutorial",
+  "cli": {
+    "analytics": "24ece5c9-7157-4a27-931a-ff5676b3c1cc"
+  }
 }
